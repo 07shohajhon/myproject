@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d7fd7b4-4ef8-465e-a63c-b2f60b18f2e3" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/myproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/BackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/AdvertsiningDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/ConnectionDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/DriverAboutDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/DriverDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/FromCityDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/IsDriving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/LoginDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/PessengerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/RouteDriverDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/ToCityDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/DTO/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/Repasitory/AdminRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/Telegram_bot/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/Telegram_bot/TaxiProjectBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/config/Loader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/config/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/controller/AdvertisingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/controller/ComentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/controller/ConnectionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/controller/DriverRouteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/controller/FromCityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/controller/ToCityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/Advertising.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/Comment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/Connection1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/Connection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/FromCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/Route_Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/ToCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/repository/CommentRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/repository/CommentRepo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/repository/ConnectionRepo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/repository/ConnectionRepo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/repository/FromCityRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/repository/RoleRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/repository/RouteDriverRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/repository/ToCityRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/repository/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/Advertising/AdvertisingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/Advertising/AdvertisingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/Advertising/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/auth/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/auth/AuthServiceIml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/connection/ConnectionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/connection/ConnectionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/driver/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/driver/UserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/driver/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/fromCity/FromCityImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/fromCity/FromCityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/jwt/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/jwt/JwtServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/route/DriverRouteImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/route/DriverRouteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/toCity/ToCityImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/service/toCity/ToCityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/5-8NCw_5bR.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/5-BAEop_r0.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/5-CzOa35lx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/5-CzOa35lx.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/AboutDriversOne-CrUBP7Ir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/AboutDriversOne-CrUBP7Ir.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/AdminHeder-B4WhpZRJ.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/AdminHeder-Du-mbMbO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/AdminHeder-Du-mbMbO.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/DriverFooter-CPX7iMYK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/DriverFooter-CPX7iMYK.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/DriverFooter-CvJU3Hnr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Landing-6oR5O6uB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Landing-6oR5O6uB.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Landing-CIbz6dCm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Login-CxOXOpWv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Login-CxOXOpWv.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Login-DrosNBY0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/MyselfDriver-CBHgfKvl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/MyselfDriver-DRYOA34v.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/MyselfDriver-DRYOA34v.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/PathDriver-DB2eBCMS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/PathDriver-Ij_aobvF.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/PathDriver-Ij_aobvF.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Register-C3sZX5Cc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Register-C3sZX5Cc.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Register-Dm5LoUhJ.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Register-Dvum29wO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/Register-Dvum29wO.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/RoutesUser-CGmGHExv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/RoutesUser-CGmGHExv.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/RoutesUser-CZQE1Kz5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/all-DjD85yHo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b1-B_q42smT.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b11-B41mlUw6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b11-CA5k1U3z.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b11-DSj8Lgkw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b11-DSj8Lgkw.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b18-CkBPVXS3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b2-Db8Blmmi.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b3-VLDvd-FQ.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b4-gD3ihyT1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/b6-J1vSYeiw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/favicon-B-W7Ngdp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/iconBase-72Uq7_Yp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/iconBase-72Uq7_Yp.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/index-BCdHPsc2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/index-BCdHPsc2.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/index-DO3KgvFy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/lib-D5coCdRK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/lib-D5coCdRK.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/routesAdmin-BPEqfRCg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/telegram-CjCUcquv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/telegram-CjCUcquv.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/user-U-jNu4y2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor-cPKpM4Zg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/vendor-cPKpM4Zg.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/backend/BackendApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/backend/service/DriverRouteImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/backend/service/FromCityImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/backend/service/ToCityImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;07shohajhon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/07shohajhon/taxiproject.git&quot;,
+    &quot;accountId&quot;: &quot;200d4ee1-3f1c-40b7-b438-1ab4aed0958f&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="31pnlLGk8iMdus26CRDwi5kEuMp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.backend/Dockerfile.executor": "Run",
+    "Maven.backend [./mvnw,clean,package...].executor": "Run",
+    "Maven.backend [clean,package,-DskipTests].executor": "Run",
+    "Maven.backend [clean,package].executor": "Run",
+    "Maven.backend [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/taxiproject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn ./mvnw clean package -DskipTests " />
+      <command value="docker build -t myproject . " />
+      <command value="docker build -t myproject " />
+      <command value="mvn clean package -DskipTests " />
+      <command value="mvn clean package" />
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackendApplication">
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="backend/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="" />
+          <option name="sourceFilePath" value="backend/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.backend/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26574.91" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26574.91" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d7fd7b4-4ef8-465e-a63c-b2f60b18f2e3" name="Changes" comment="" />
+      <created>1756230034220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756230034220</updated>
+      <workItem from="1756230039926" duration="5282000" />
+      <workItem from="1756240970973" duration="2025000" />
+      <workItem from="1756269926480" duration="601000" />
+      <workItem from="1756309888884" duration="7322000" />
+      <workItem from="1756327937095" duration="1668000" />
+      <workItem from="1756355217898" duration="1218000" />
+      <workItem from="1756356477320" duration="372000" />
+      <workItem from="1756356902145" duration="1267000" />
+      <workItem from="1756362040302" duration="1600000" />
+      <workItem from="1756373150593" duration="842000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1756232456478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756232456497</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1756233035547</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756233035550</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1756324930636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756324930638</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1756326818163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756326818163</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1756326939066</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756326939066</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <option name="closed" value="true" />
+      <created>1756328858007</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756328858007</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
