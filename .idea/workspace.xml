@@ -5,52 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7fd7b4-4ef8-465e-a63c-b2f60b18f2e3" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/5-BAEop_r0.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/5-DMedRb0Q.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/5-FV9q23m0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/AboutDriversOne-Bc74iB1j.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/AdminHeder-B4WhpZRJ.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/AdminHeder-dABioVsi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/DriverFooter-CvJU3Hnr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/DriverFooter-bZma6fTR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/Group (1)-BwGZ8b5Y.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/Landing-CIbz6dCm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/Landing-U6zjjLRl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/Login-C6H8pSWe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/Login-DrosNBY0.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/MyselfDriver-CBHgfKvl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/MyselfDriver-DiLfL7Wu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/PathDriver-CyQdC-T4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/PathDriver-DB2eBCMS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/Register-CZrmj4WY.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/Register-Dm5LoUhJ.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/Register-Dvum29wO.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/RoutesUser-CXxMkAwc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/RoutesUser-CZQE1Kz5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/ShiftTaxi-BsO0_AkW.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/a8-OmgMhnvr.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/all-DjD85yHo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/b1-B_q42smT.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/b11-B41mlUw6.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/b18-CkBPVXS3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/b2-Db8Blmmi.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/b3-VLDvd-FQ.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/b4-gD3ihyT1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/b6-J1vSYeiw.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/b8-CA5k1U3z.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/b8-CDStrCGP.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/iconBase-72Uq7_Yp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/index-Bx8KFvc6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/index-DO3KgvFy.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/lib-D5coCdRK.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/routesAdmin-zH-R8LHN.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/user-1tcHmlgN.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/assets/vendor-cPKpM4Zg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/backend-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/backend-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/backend/Telegram_bot/TaxiProjectBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/backend/Telegram_bot/TaxiProjectBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/5-BAEop_r0.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/5-DMedRb0Q.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/5-FV9q23m0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/AboutDriversOne-Bc74iB1j.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/AdminHeder-B4WhpZRJ.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/AdminHeder-dABioVsi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/DriverFooter-CvJU3Hnr.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/DriverFooter-bZma6fTR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/Group (1)-BwGZ8b5Y.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/Landing-CIbz6dCm.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/Landing-U6zjjLRl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/Login-C6H8pSWe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/Login-DrosNBY0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/MyselfDriver-CBHgfKvl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/MyselfDriver-DiLfL7Wu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/PathDriver-CyQdC-T4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/PathDriver-DB2eBCMS.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/Register-CZrmj4WY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/Register-Dm5LoUhJ.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/Register-Dvum29wO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/RoutesUser-CXxMkAwc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/RoutesUser-CZQE1Kz5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/ShiftTaxi-BsO0_AkW.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/a8-OmgMhnvr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/all-DjD85yHo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/b1-B_q42smT.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/b11-B41mlUw6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/b18-CkBPVXS3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/b2-Db8Blmmi.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/b3-VLDvd-FQ.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/b4-gD3ihyT1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/b6-J1vSYeiw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/b8-CA5k1U3z.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/b8-CDStrCGP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/iconBase-72Uq7_Yp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/index-Bx8KFvc6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/index-DO3KgvFy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/lib-D5coCdRK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/routesAdmin-zH-R8LHN.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/user-1tcHmlgN.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/assets/vendor-cPKpM4Zg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/vite.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +67,12 @@
     &quot;assignee&quot;: &quot;07shohajhon&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/07shohajhon/taxiproject.git&quot;,
-    &quot;accountId&quot;: &quot;200d4ee1-3f1c-40b7-b438-1ab4aed0958f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/07shohajhon/myproject.git",
+    "accountId": "200d4ee1-3f1c-40b7-b438-1ab4aed0958f"
   }
-}</component>
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -92,31 +93,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Docker.backend/Dockerfile.executor": "Run",
-    "Maven.backend [./mvnw,clean,package...].executor": "Run",
-    "Maven.backend [clean,package,-DskipTests].executor": "Run",
-    "Maven.backend [clean,package].executor": "Run",
-    "Maven.backend [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/taxiproject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.backend/Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.backend [./mvnw,clean,package...].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.backend [clean,package,-DskipTests].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.backend [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.backend [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/taxiproject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn ./mvnw clean package -DskipTests " />
@@ -182,6 +183,7 @@
       <workItem from="1756356902145" duration="1267000" />
       <workItem from="1756362040302" duration="1600000" />
       <workItem from="1756373150593" duration="842000" />
+      <workItem from="1756436710315" duration="1969000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -239,11 +241,38 @@
       <option name="project" value="LOCAL" />
       <updated>1756375442676</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <option name="closed" value="true" />
+      <created>1756383688090</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756383688094</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1756385717205</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756385717205</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
